@@ -20,6 +20,7 @@
 //#define MMDBG 1
 #define IODUMP 1
 #define PAGETBL_DUMP 1
+#define OSDBG 1
 
 /* 
  * @bksysnet:
